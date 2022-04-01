@@ -327,7 +327,7 @@ img{
 
 /*-menu-*/
 .menu__container{
-  grid-template-columns: repeat(2, 30%);
+  grid-template-columns: repeat(2, 50%);
   justify-content: center;
 }
 
